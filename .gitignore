@@ -1,0 +1,16 @@
+# === IDE y editores ===
+.vscode/
+.idea/
+*.lck
+
+# === DBeaver ===
+.dbeaver/
+
+# === OS metadata ===
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# === Gemini / Antigravity ===
+.gemini/
+.agents/
